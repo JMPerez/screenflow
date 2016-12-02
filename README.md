@@ -2,6 +2,10 @@
 
 This project uses the [MediaRecorder API](https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder) to record your screen, as well as your camera in a corner or in full page.
 
+![Recording of me trying this out](demo.gif)
+
+You can also see [the generated .webm video](demo-output.webm).
+
 ## How to make it work
 
 As of December 2016 this demo **is only supported on Firefox**. Chrome is not supported out of the box, needing an extension and lots of custom code (see [this WebRTC experiment](https://www.webrtc-experiment.com/RecordRTC/) for more information. It will show your camera, but won't record anything.
