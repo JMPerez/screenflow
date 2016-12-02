@@ -1,0 +1,26 @@
+.screenflow {
+  margin: 0;
+  border: 0;
+  opacity: 1;
+  transition: all 0.5s ease;
+}
+
+.screenflow.in-fullscreen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.screenflow.in-corner {
+  position: fixed;
+  top: 75%;
+  left: 75%;
+  width: 25%;
+  height: 25%;
+}
+
+.screenflow.hidden {
+  opacity: 0;
+}
