@@ -29,4 +29,4 @@ These are the keyboard bindings supported by this library. The focused element m
 
 ## References
 
-This project is based on [Soledad Penadés](https://twitter.com/supersole)' [Real time front-end alchemy](https://soledadpenades.com/files/t/2016_rtalchemy/) talk.
+This project is based on [Soledad Penadés](https://twitter.com/supersole)' [Real time front-end alchemy](https://www.youtube.com/watch?v=wnDHKgNm4_E) talk.
